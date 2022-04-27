@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35926" started-at="2022-04-27T10:50:01Z" finished-at="2022-04-27T10:50:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35926" started-at="2022-04-27T10:50:01Z" finished-at="2022-04-27T10:50:37Z">
+      <class name="Validations.HomePage">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Validations.HomePage@29176cc1]" name="initialize" is-config="true" duration-ms="8830" started-at="2022-04-27T16:20:01Z" finished-at="2022-04-27T16:20:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="PageNavigation()[pri:0, instance:Validations.HomePage@29176cc1]" name="PageNavigation" duration-ms="27075" started-at="2022-04-27T16:20:10Z" finished-at="2022-04-27T16:20:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PageNavigation -->
+      </class> <!-- Validations.HomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
